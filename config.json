@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercalidate",
+        "uuid": 6828424,
+        "checksum": "wn1w5zd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
